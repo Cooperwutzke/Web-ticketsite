@@ -1,6 +1,6 @@
 # Web-ticketsite
 <h1>Initial Request</h1>
-<p>My dad had a request for a website with the ability to view some events, and purchase tickets for events. This is my attempt at implementing such a site.</p>
+<p>Client request for a website with the ability to view some events, and purchase tickets for events.</p>
 
 <h2>Description</h2>
 <p>To start I was thinking a simple website using Python, Flask and Bootstrap 5. It can start with limited functionality. I think the core goals would be to displaying, creating, editing events (most likely on the homepage), 
